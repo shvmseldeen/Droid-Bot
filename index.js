@@ -888,4 +888,4 @@ message.channel.send(embed)
     }
   });
 ///
-client.login('OTAxOTY1OTczMzM3Mjg0NjE4.YXXjRQ.f_x4WHrTdMD1C0LQoiz6keaXWgQ')
+client.login('process.login.env')
