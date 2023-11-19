@@ -1,0 +1,41 @@
+{
+  "name": "My-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@androz2091/discord-invites-tracker": "^1.1.0",
+    "dateformat": "^5.0.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.0",
+    "express": "^4.17.1",
+    "get-youtube-id": "^1.0.1",
+    "guild": "^1.2.3",
+    "hh-mm-ss": "^1.2.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node-cmd": "^5.0.0",
+    "parse-ms": "^2.1.0",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3",
+    "random-memes": "^3.1.0",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "youtube-info": "^1.3.2",
+    "ytdl-core": "^4.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiTzK/DISCORD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiTzK/DISCORD/issues"
+  },
+  "homepage": "https://github.com/iiTzK/DISCORD#readme"
+}
